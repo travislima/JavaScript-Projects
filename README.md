@@ -15,6 +15,9 @@ Great start. First time watching a Wes Bos tutorial, very clear and easy to unde
 *Project #2 - CSS JS Clock (12 March 2018)
 Great tutorial, feel like I am able to read JS a lot better and understand things. Learn by building is really they way forward. I had some pretty intense Troubleshooting to do with my code (minor syntax error) but in the end got it working and changed up the styling a bit. Getting there. But not really on a once per day kind of level. Too many things I am focusing on, will see if it is a good or bad thing. Only time will tell. Great course!
 
-*Project #3 - Coming Soon (TBA)
+*Project #3 - CSS Variable (4 April 2018)
+Pretty okay tutorial with not much hands-on work for me to do. It basically resulted in me watching the video and then uploading the project file with a couple of tweaks I plan to make, nothing JS related.
+
+Hope to get a bit more hands on in the upcoming tutorials.Can't take credit for this project.
 
 
