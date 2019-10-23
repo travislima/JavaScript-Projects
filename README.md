@@ -23,5 +23,5 @@ Hope to get a bit more hands on in the upcoming tutorials.Can't take credit for 
 *Project #4&5 - Random number game (21 October 2019)
 Random number dice game. Made while doing a course in Treehouse.
 
-*Project #6 - How well do you know programming game (21 October 2019)
+*Project #6 - How well do you know programming game (23 October 2019)
 Treehouse course. Made by using conditional programming to test your knowledge by asking the user 5 programming questions, out putting the results and finally awarding them with a crown or not.
