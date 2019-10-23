@@ -20,4 +20,7 @@ Pretty okay tutorial with not much hands-on work for me to do. It basically resu
 
 Hope to get a bit more hands on in the upcoming tutorials.Can't take credit for this project.
 
+*Project #4&5 - Random number game (21 October 2019)
+Random number dice game. Made while doing a course in Treehouse.
+
 
