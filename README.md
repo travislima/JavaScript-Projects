@@ -25,3 +25,6 @@ Random number dice game. Made while doing a course in Treehouse.
 
 *Project #6 - How well do you know programming game (23 October 2019)
 Treehouse course. Made by using conditional programming to test your knowledge by asking the user 5 programming questions, out putting the results and finally awarding them with a crown or not.
+
+*Project #7 - Random Number Function (28 October 2019)
+Random number function made by following along in the Treehouse Basic Javascript Track. Really feel like I am comprehending JS.
